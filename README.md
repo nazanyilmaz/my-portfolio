@@ -11,7 +11,7 @@
 <p>I took this project live with Vercel and the link is as follows.
  "my-portfolio-omega-peach.vercel.app"
 
-  /p>
+  </p>
 
   <h3>PRoject Gif</h3>
   
